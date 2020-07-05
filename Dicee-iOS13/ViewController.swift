@@ -33,5 +33,7 @@ class ViewController: UIViewController {
         diceImageView2.image = #imageLiteral(resourceName: "DiceFour")
     }
     
+    // FIXING GITY DELETE
+    
 }
 
